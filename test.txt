@@ -1,3 +1,1 @@
-ahoj
-cauky jak se mas
-ja se mam dobre
+Text první na hlavní větvi
