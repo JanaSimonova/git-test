@@ -1,1 +1,1 @@
-Text druhý na vedlejší větvi
+Text první na hlavní větvi
